@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+header {
+  padding: 20px 40px;
+  font-size: 18px;
+}
+
+
+.portfolio-portrait-image-circle {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  max-width: 17%;
+  max-height: 17%;
+}
